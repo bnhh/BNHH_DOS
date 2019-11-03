@@ -52,6 +52,8 @@ apt update
 
 apt upgrade
 
+apt install clang
+
 apt install git
 
 git clone https://github.com/bnhh/BNHH_DOS
